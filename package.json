@@ -1,0 +1,21 @@
+{
+  "name": "restaurant-something",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennsantos20/restaurant-something.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bennsantos20/restaurant-something/issues"
+  },
+  "homepage": "https://github.com/bennsantos20/restaurant-something#readme"
+}
